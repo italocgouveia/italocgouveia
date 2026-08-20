@@ -1,0 +1,43 @@
+name: Snake das contribuições
+
+# Sem este workflow as imagens da seção "CONTRIBUIÇÕES" do README ficam
+# quebradas: a snake NÃO é uma URL pronta de serviço externo — o SVG é gerado
+# aqui e commitado na branch `output`, que o README consome via raw.
+#
+# Roda de 12 em 12 horas para acompanhar o gráfico, e dá pra disparar na mão
+# pela aba Actions (workflow_dispatch) sem esperar o agendamento.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# `contents: write` é obrigatório: o job empurra a branch `output`.
+# Sem isso o passo de push falha com 403.
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar o SVG (claro e escuro)
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
