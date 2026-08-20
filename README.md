@@ -107,7 +107,59 @@ Não gosto de projeto que só existe em slide. Gosto do que sobe, quebra em prod
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FFF,100:FF2E97" width="100%" alt=""/>
 
-## `04` · PROJETOS
+## `04` · SITES NO AR
+
+<div align="center">
+
+<!-- Sites primeiro, cards depois: link que abre e funciona convence mais
+     rápido que qualquer print — e não depende de servico externo pra
+     renderizar. Todos verificados respondendo 200. -->
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ICG TECH
+
+Landing pages, sites institucionais<br/>e sistemas web
+
+`Next.js` · `Vercel`
+
+[![Ver](https://img.shields.io/badge/▸_ABRIR_SITE-icgtech.site-00F0FF?style=for-the-badge&labelColor=0A0A0F)](https://icgtech.site)
+
+</td>
+<td width="33%" align="center">
+
+### LKR SERVIÇOS
+
+Transportes e logística<br/>integrada para empresas
+
+`TypeScript` · `Vercel`
+
+[![Ver](https://img.shields.io/badge/▸_ABRIR_SITE-ao_vivo-7B2FFF?style=for-the-badge&labelColor=0A0A0F)](https://lkr-logistics-elevated.vercel.app)
+[![Código](https://img.shields.io/badge/código-0A0A0F?style=for-the-badge&logo=github&logoColor=E8FBFF)](https://github.com/italocgouveia/lkr-logistics-elevated)
+
+</td>
+<td width="33%" align="center">
+
+### UNIKAR
+
+Personalização sob medida<br/>a partir da foto do cliente
+
+`CSS` · `Vercel`
+
+[![Ver](https://img.shields.io/badge/▸_ABRIR_SITE-ao_vivo-FF2E97?style=for-the-badge&labelColor=0A0A0F)](https://unikar-labz.vercel.app)
+[![Código](https://img.shields.io/badge/código-0A0A0F?style=for-the-badge&logo=github&logoColor=E8FBFF)](https://github.com/italocgouveia/unikar-labz)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FFF,100:FF2E97" width="100%" alt=""/>
+
+## `05` · PROJETOS
 
 <div align="center">
 
@@ -119,6 +171,9 @@ Não gosto de projeto que só existe em slide. Gosto do que sobe, quebra em prod
 </a>
 <a href="https://github.com/italocgouveia/Trabalho-Faculdade-SQL-PYTHON">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=italocgouveia&repo=Trabalho-Faculdade-SQL-PYTHON&bg_color=0A0A0F&title_color=00F0FF&text_color=A8B3C4&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="Trabalho SQL/Python"/>
+</a>
+<a href="https://github.com/italocgouveia/unikar-labz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italocgouveia&repo=unikar-labz&bg_color=0A0A0F&title_color=00F0FF&text_color=A8B3C4&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="UNIKAR"/>
 </a>
 <a href="https://github.com/italocgouveia/projeto.mysql">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=italocgouveia&repo=projeto.mysql&bg_color=0A0A0F&title_color=00F0FF&text_color=A8B3C4&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="Projeto MySQL"/>
@@ -154,7 +209,7 @@ Três decisões que definem o projeto:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FFF,100:FF2E97" width="100%" alt=""/>
 
-## `05` · OBJETIVOS ATUAIS
+## `06` · OBJETIVOS ATUAIS
 
 ```console
 italo@icgtech:~$ ./roadmap --ano 2026
@@ -176,7 +231,7 @@ italo@icgtech:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FFF,100:FF2E97" width="100%" alt=""/>
 
-## `06` · MÉTRICAS
+## `07` · MÉTRICAS
 
 <div align="center">
 
@@ -209,7 +264,7 @@ italo@icgtech:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FFF,100:FF2E97" width="100%" alt=""/>
 
-## `07` · TROFÉUS
+## `08` · TROFÉUS
 
 <div align="center">
 
@@ -219,7 +274,7 @@ italo@icgtech:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FFF,100:FF2E97" width="100%" alt=""/>
 
-## `08` · CONTRIBUIÇÕES
+## `09` · CONTRIBUIÇÕES
 
 <div align="center">
 
@@ -244,7 +299,7 @@ italo@icgtech:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FFF,100:FF2E97" width="100%" alt=""/>
 
-## `09` · CONEXÃO
+## `10` · CONEXÃO
 
 <div align="center">
 
