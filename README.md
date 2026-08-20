@@ -250,7 +250,7 @@ italo@icgtech:~$ _
 
 [![Site](https://img.shields.io/badge/ICG_TECH-icgtech.site-00F0FF?style=for-the-badge&logo=vercel&logoColor=0A0A0F&labelColor=0A0A0F)](https://icgtech.site)
 [![Email](https://img.shields.io/badge/EMAIL-contato-FF2E97?style=for-the-badge&logo=gmail&logoColor=0A0A0F&labelColor=0A0A0F)](mailto:italogouveiacandido12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-conectar-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=E8FBFF&labelColor=0A0A0F)](https://www.linkedin.com/in/italocgouveia)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-conectar-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=E8FBFF&labelColor=0A0A0F)](https://www.linkedin.com/in/italo-candido-gouveia-069b573b9)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-icgtech-E1306C?style=for-the-badge&logo=instagram&logoColor=E8FBFF&labelColor=0A0A0F)](https://instagram.com/icgtech)
 
 </div>

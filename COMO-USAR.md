@@ -91,7 +91,7 @@ São instâncias públicas gratuitas que o mundo inteiro usa; elas caem e voltam
 
 ## 6. Antes de publicar, confira
 
-- [ ] O link do **LinkedIn** no rodapé aponta para o seu perfil de verdade
+- [x] O link do **LinkedIn** no rodapé aponta para o seu perfil de verdade
 - [ ] O **Instagram** está com o usuário certo
 - [ ] Os percentuais da seção `05 · OBJETIVOS` refletem onde você realmente está — eu chutei a partir do que conversamos, e número inventado num perfil é fácil de desmentir numa entrevista
 - [ ] Os quatro projetos fixados são os que você quer mostrar
